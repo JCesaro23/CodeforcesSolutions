@@ -1,0 +1,6 @@
+#	archivos de salida y .exe
+**/Div*/*.exe
+**/Div*/*.in
+**/Div*/*.out
+**/Div*/*.txt
+**/Div*/*.class
